@@ -4,27 +4,32 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
-  name = "Home"
+  name = "Domů"
   url = "#about"
   weight = 10
 
-[[main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 20
+# [[main]]
+#   name = "Posts"
+#   url = "#posts"
+#   weight = 20
+
+# [[main]]
+#   name = "Projects"
+#   url = "#projects"
+#   weight = 30
+
+# [[main]]
+#   name = "Publications"
+#   url = "#featured"
+#   weight = 40
 
 [[main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 30
+  name = "Jak můžu pomoct?"  # A link title for your page.
+  url = "jak-muzu-pomoct/"  # The URL of your page.
+  weight = 50  # The position of your page in the menu.
 
 [[main]]
-  name = "Publications"
-  url = "#featured"
-  weight = 40
-
-[[main]]
-  name = "Contact"
+  name = "Kontakt"
   url = "#contact"
   weight = 60
 
