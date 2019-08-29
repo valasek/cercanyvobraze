@@ -3,10 +3,10 @@
 #     desired widget in your `content/home/` folder.
 #   The weight parameter defines the order that the links will appear in.
 
-[[main]]
-  name = "Domů"
-  url = "#about"
-  weight = 10
+# [[main]]
+#   name = "Domů"
+#   url = ""
+#   weight = 10
 
 # [[main]]
 #   name = "Posts"
@@ -29,9 +29,46 @@
   weight = 50  # The position of your page in the menu.
 
 [[main]]
-  name = "Kontakt"
-  url = "#contact"
+  name = "Územní plán Čerčan"
+  identifier = "plan"
+  url = "plan/"
+  weight = 50
+
+[[main]]
+  name = "Změna č. 1"
+  parent = "plan"
+  url = "plan/zmena"
+  weight = 51
+
+[[main]]
+  name = "Soubory ke stažení"
+  parent = "plan"
+  url = "plan/soubory"
+  weight = 52
+
+[[main]]
+  name = "O spolku"
+  identifier = "ospolku"
+  url = "o-spolku/"
   weight = 60
+
+[[main]]
+  name = "Kontakt"
+  parent="ospolku"
+  url = "o-spolku/kontakt/"
+  weight = 61
+
+[[main]]
+  name = "Přítomnost v médiích"
+  parent="ospolku"
+  url = "o-spolku/media/"
+  weight = 62
+
+[[main]]
+  name = "Naši podporovatelé"
+  parent="ospolku"
+  url = "o-spolku/podporovatele/"
+  weight = 62
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
