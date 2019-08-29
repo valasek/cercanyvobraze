@@ -50,7 +50,7 @@
   translation: Video
 
 - id: btn_code
-  translation: Code
+  translation: Kód
 
 - id: btn_dataset
   translation: Dataset
@@ -79,7 +79,7 @@
   translation: Vzdělání
 
 - id: user_profile_latest
-  translation: Latest
+  translation: Nejnovší
 
 # Accomplishments widget
 
@@ -89,7 +89,7 @@
 # Experience widget
 
 - id: present
-  translation: Present
+  translation: Současnost
 
 # Pages widget
 
@@ -97,7 +97,7 @@
   translation: Zobraz vše
 
 - id: more_posts
-  translation: See all posts
+  translation: Zobraz všechny příspěvky
 
 - id: more_talks
   translation: See all talks
@@ -131,7 +131,7 @@
   translation: Publication
 
 - id: publication_type
-  translation: Type
+  translation: Typ
 
 - id: date
   translation: Datum
@@ -161,7 +161,7 @@
   translation: Report
 
 - id: pub_book
-  translation: Book
+  translation: Kniha
 
 - id: pub_book_section
   translation: Book section
@@ -175,12 +175,12 @@
 # Project details
 
 - id: open_project_site
-  translation: Go to Project Site
+  translation: Na stánku projektu
 
 # Default titles for archive pages
 
 - id: posts
-  translation: Posts
+  translation: Příspěvky
 
 - id: publications
   translation: Publications
@@ -189,7 +189,7 @@
   translation: Talks
 
 - id: projects
-  translation: Projects
+  translation: Projekty
 
 # Search
 
