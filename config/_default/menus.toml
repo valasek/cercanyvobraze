@@ -37,19 +37,19 @@
 [[main]]
   name = "Územní plán"
   parent = "plan"
-  url = "plan/uzemni-plan"
+  url = "plan/uzemni-plan/"
   weight = 51
 
 [[main]]
   name = "Změna č. 1"
   parent = "plan"
-  url = "plan/zmena"
+  url = "plan/zmena/"
   weight = 52
 
 [[main]]
   name = "Soubory ke stažení"
   parent = "plan"
-  url = "plan/soubory"
+  url = "plan/soubory/"
   weight = 53
 
 [[main]]
@@ -61,7 +61,7 @@
 [[main]]
   name = "Vize"
   parent="spolek"
-  url = "spolek/vize"
+  url = "spolek/vize/"
   weight = 61
 
 [[main]]
@@ -75,12 +75,6 @@
   parent="spolek"
   url = "spolek/media/"
   weight = 63
-
-[[main]]
-  name = "Naši podporovatelé"
-  parent="spolek"
-  url = "spolek/podporovatele/"
-  weight = 64
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
