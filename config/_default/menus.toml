@@ -25,7 +25,7 @@
 
 [[main]]
   name = "Jak můžu pomoct?"  # A link title for your page.
-  url = "jak-muzu-pomoct/"  # The URL of your page.
+  url = "#demo"  # The URL of your page.
   weight = 50  # The position of your page in the menu.
 
 [[main]]
@@ -53,28 +53,14 @@
   weight = 53
 
 [[main]]
-  name = "O spolku"
-  identifier = "spolek"
-  url = "spolek/"
+  name = "Kontakt"
+  url = "#contact"
   weight = 60
 
 [[main]]
-  name = "Vize"
-  parent="spolek"
-  url = "spolek/vize/"
-  weight = 61
-
-[[main]]
-  name = "Kontakt"
-  parent="spolek"
-  url = "spolek/kontakt/"
-  weight = 62
-
-[[main]]
-  name = "Přítomnost v médiích"
-  parent="spolek"
-  url = "spolek/media/"
-  weight = 63
+  name = "O spolku"
+  url = "post/zalozeni-spolku/"
+  weight = 70
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

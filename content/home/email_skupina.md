@@ -5,7 +5,7 @@
 
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
 title = "Zůstaňte informováni"
@@ -47,4 +47,4 @@ subtitle = ""
  css_class = ""
 +++
 
-Doplnit formulář na odběr emailů
+[Přihlašte se k odběru novinek](https://docs.google.com/forms/d/e/1FAIpQLSe7hRoejTstbG6nJZR3VAzkWoykDZ6zeayH7BFKf5xda5PrTg/viewform?usp=sf_link)
