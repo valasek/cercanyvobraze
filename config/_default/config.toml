@@ -13,10 +13,7 @@ baseurl = "https://www.cercanyvobraze.cz/"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
-copyright = "&copy; by Čerčany v obraze, {year}"
-
-# Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = "UA-146659077-1"
+copyright = "&copy; by Stanislav Valášek for Čerčany v obraze, {year}"
 
 ############################
 ## Advanced options below ##
