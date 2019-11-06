@@ -9,7 +9,7 @@
 #   Latest themes (may require updating): https://sourcethemes.com/academic/themes/
 #   Browse built-in themes in `themes/academic/data/themes/`
 #   Browse user installed themes in `data/themes/`
-theme = "minimal"
+theme = "Minimal"
 
 # Enable users to switch between day and night mode?
 # day_night = true
@@ -18,11 +18,11 @@ theme = "minimal"
 #   Latest font sets (may require updating): https://sourcethemes.com/academic/themes/
 #   Browse built-in font sets in `themes/academic/data/fonts/`
 #   Browse user installed font sets in `data/fonts/`
-font = "rose"
+font = "Minimal"
 
 # Choose a font size.
 # Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
-font_size = "L"
+font_size = "M"
 
 ############################
 ## Basic Info
@@ -111,6 +111,7 @@ email = "cercany.vobraze@gmail.com"
 contact_links = [
   # {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/Twitter"},
   # {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
+  {icon = "envelope", icon_pack = "fas", name = "Napište nám", link = "mailto:cercany.vobraze@gmail.com"},
   {icon = "facebook", icon_pack = "fab", name = "Přidej se do FB skupiny", link = "https://www.facebook.com/groups/367013960544384/"},
   # {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   # {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},

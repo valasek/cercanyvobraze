@@ -7032,13 +7032,13 @@ a.text-dark:hover, a.text-dark:focus {
  **************************************************/
 html {
   font-family: Roboto, sans-serif;
-  font-size: 16.17px;
+  font-size: 13.86px;
   color: rgba(0, 0, 0, 0.8);
   line-height: 1.65; }
 
 @media screen and (min-width: 58em) {
   html {
-    font-size: 21px; } }
+    font-size: 18px; } }
 
 body {
   font-family: inherit;
@@ -7082,14 +7082,14 @@ ul.task-list {
 
 /* Navigation bar text */
 .navbar-light {
-  font-family: Lora, sans-serif;
+  font-family: Roboto, sans-serif;
   font-weight: 400;
   line-height: 1.25;
   text-rendering: optimizeLegibility; }
 
 /* Headings */
 h1, h2, h3, h4, h5, h6 {
-  font-family: Lora, sans-serif;
+  font-family: Montserrat, sans-serif;
   font-weight: 400;
   margin-top: 1rem;
   margin-bottom: .5rem;
@@ -7165,7 +7165,7 @@ figcaption.numbered {
 
 pre,
 code {
-  font-family: Cutive Mono, monospace;
+  font-family: Roboto Mono, monospace;
   color: #c7254e;
   background-color: #f9f2f4; }
 
@@ -7547,7 +7547,7 @@ div.alert a {
 
 .dropdown-menu,
 nav#navbar-main li.nav-item {
-  font-size: 16.17px; }
+  font-size: 13.86px; }
 
 .navbar-light .navbar-nav > .nav-item > .nav-link,
 .navbar-light .navbar-nav > .nav-item > .nav-link:focus,
