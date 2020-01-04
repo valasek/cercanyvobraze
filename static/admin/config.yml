@@ -1,0 +1,32 @@
+backend:
+  name: git-gateway
+  branch: master # Branch to update (optional; defaults to master)
+
+publish_mode: editorial_workflow
+
+collections:
+  - label: "Novinky" # Used in the UI
+    name: "novinky" # Used in routes, e.g., /admin/collections/blog
+    folder: "content/novinky" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Date", name: "date", widget: date}
+      - {label: "Image", name: "image", widget: image}
+      - {label: "Body", name: "body", widget: "markdown"}
+  - label: "Stránky"
+    name: "pages"
+    files:
+      - label: "Hlavní stránka"
+        name: "index"
+        file: "content/_index.md"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - label: "Odchovy"
+        name: "odchovy"
+        file: "content/odchovy.md"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: "Body", name: "body", widget: "markdown"}
