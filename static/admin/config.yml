@@ -17,7 +17,6 @@ collections:
       - {label: "Podnadpis", name: "subtitle", widget: "string"}
       - {label: "Shrnutí", name: "summary", widget: "string"}
       - {label: "Datum", name: "date", widget: date}
-      - {label: "Obrázek", name: "image", widget: image}
       - {label: "Obsah", name: "body", widget: "markdown"}
       - {label: "projects", name: "projects", widget: "hidden"}
   - label: "Stránky"
@@ -27,5 +26,31 @@ collections:
         name: "uzemni-plan"
         file: "content/plan/uzemni-plan.md"
         fields:
-          - {label: Title, name: title, widget: string}
-          - {label: "Body", name: "body", widget: "markdown"}
+        - {label: "Nadpis", name: "title", widget: "string"}
+        - {label: "Podnadpis", name: "subtitle", widget: "string"}
+        - {label: "Shrnutí", name: "summary", widget: "string"}
+        - {label: "Datum", name: "date", widget: date}
+        - {label: "Obsah", name: "body", widget: "markdown"}
+        - {label: "projects", name: "projects", widget: "hidden"}
+      - label: "Změna č. 1"
+        name: "zmenac1"
+        file: "content/zmena.md"
+        fields:
+        - {label: "Nadpis", name: "title", widget: "string"}
+        - {label: "Podnadpis", name: "subtitle", widget: "string"}
+        - {label: "Shrnutí", name: "summary", widget: "string"}
+        - {label: "Datum", name: "date", widget: date}
+        - {label: "Obsah", name: "body", widget: "markdown"}
+        - {label: "projects", name: "projects", widget: "hidden"}
+        - label: "Změna č. 1"
+      - label: Soubory ke stažení"
+        name: "soubory"
+        file: "content/soubory.md"
+        fields:
+        - {label: "Nadpis", name: "title", widget: "string"}
+        - {label: "Podnadpis", name: "subtitle", widget: "string"}
+        - {label: "Shrnutí", name: "summary", widget: "string"}
+        - {label: "Datum", name: "date", widget: date}
+        - {label: "Obsah", name: "body", widget: "markdown"}
+        - {label: "projects", name: "projects", widget: "hidden"}
+        - label: "Změna č. 1"
