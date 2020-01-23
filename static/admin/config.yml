@@ -34,7 +34,7 @@ collections:
         - {label: "projects", name: "projects", widget: "hidden"}
       - label: "Změna č. 1"
         name: "zmenac1"
-        file: "content/zmena.md"
+        file: "content/plan/zmena.md"
         fields:
         - {label: "Nadpis", name: "title", widget: "string"}
         - {label: "Podnadpis", name: "subtitle", widget: "string"}
@@ -44,7 +44,7 @@ collections:
         - {label: "projects", name: "projects", widget: "hidden"}
       - label: Soubory ke stažení"
         name: "soubory"
-        file: "content/soubory.md"
+        file: "content/plan/soubory.md"
         fields:
         - {label: "Nadpis", name: "title", widget: "string"}
         - {label: "Podnadpis", name: "subtitle", widget: "string"}
