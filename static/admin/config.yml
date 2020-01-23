@@ -52,4 +52,3 @@ collections:
         - {label: "Datum", name: "date", widget: date}
         - {label: "Obsah", name: "body", widget: "markdown"}
         - {label: "projects", name: "projects", widget: "hidden"}
-        - label: "Změna č. 1"
