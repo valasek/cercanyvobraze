@@ -42,7 +42,7 @@ collections:
         - {label: "Datum", name: "date", widget: date}
         - {label: "Obsah", name: "body", widget: "markdown"}
         - {label: "projects", name: "projects", widget: "hidden"}
-      - label: Soubory ke stažení"
+      - label: "Soubory ke stažení"
         name: "soubory"
         file: "content/plan/soubory.md"
         fields:
