@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Argumenty pro výstavbu satelity"
+title: "Argumenty pro výstavbu satelitu"
 subtitle: ""
 summary: "Setkáváme se s argumenty, ze strany lidí, kteří jsou pro výstavbu satelitu. Pojďme se na některé podívat blíže...☝🏻🔬"
 authors: [""]

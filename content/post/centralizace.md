@@ -35,6 +35,7 @@ projects: []
 
 Budoucnost naší obce leží na bedrech současného a budoucího zastupitelstva, ale i na nás samotných. Zabraňme společnými silami rozšíření obce nejen na pozemkách v oblasti Jericha a nedovolme udělat z Čerčan satelit Prahy. Nedopusťme se stejných chyb jako okolní obce a rozšiřujme s rozumem‼️
 
---
+---
 
+[![Centralizace obyvatelů](/img/Hradcany.jpeg "Centralizace obyvatelů")](https://www.novinky.cz/domaci/clanek/v-roce-2070-bude-tretina-cechu-zit-v-praze-a-stredoceskem-kraji-40305235)
 [V roce 2070 bude třetina Čechů žít v Praze a Středočeském kraji](https://www.novinky.cz/domaci/clanek/v-roce-2070-bude-tretina-cechu-zit-v-praze-a-stredoceskem-kraji-40305235)
