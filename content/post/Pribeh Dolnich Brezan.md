@@ -1,13 +1,13 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Setkaní s občany"
+title: "Příběh Dolních Břežan"
 subtitle: ""
-summary: "Shrnutí našeho setkání s občany ze dne 20.08.2019"
+summary: "Dnešním příspěvkem bychom rádi představili příběh obce Dolní Břežany. Je to další příklad územního plánování, ze kterého se naše obec má možnost ponaučit a neopakovat tak chyby, které udělali obce před námi."
 authors: [""]
 tags: []
 categories: []
-date: 2019-09-01
+date: 2020-01-27
 featured: false
 draft: false
 
@@ -27,9 +27,6 @@ image:
 projects: []
 ---
 
-V příloze dnešního příspěvku bychom rádi zveřejnili shrnutí našeho setkání s občany ze dne 20.08.2019. Cílem setkání i souboru je shrnutí informací, které jsme nashromáždili o změně č.1 územního plánu obce Čerčan.
-<br/>
-<br/>
-PDF ke stažení
---
-[Podklady prezentované na setkání s občany, 20.08.2019](/documents/Setkani_s_obcany.pdf) 
+Dnešním příspěvkem bychom rádi představili příběh obce Dolní Břežany. Je to další příklad územního plánování, ze kterého se naše obec má možnost ponaučit a neopakovat tak chyby, které udělali obce před námi. 
+
+[Už nejsme noclehárnou](https://www.lidovky.cz/nazory/starostove-pisi-noviny-dolni-brezany-starosta-michalik.A150519_211045_ln_nazory_jhe)

@@ -7,8 +7,7 @@ summary: "Dne 25. 7. 2019 došlo k založení spolku Čerčany v obraze."
 authors: [""]
 tags: []
 categories: []
-date: 2019-07-25T23:15:49+02:00
-lastmod: 2019-09-01T23:15:49+02:00
+date: 2019-07-25
 featured: false
 draft: false
 
@@ -44,4 +43,4 @@ IČO | 08256632
 * Lukáš Harvan
 * Jan Vyskočil
 
-![alt text](/img/Vodoznak.png "Logo Title Text 1")
+![vodoznak](/img/Vodoznak.png "Vodoznak")

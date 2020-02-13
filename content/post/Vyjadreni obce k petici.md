@@ -1,13 +1,13 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Setkaní s občany"
+title: "Vyjádření obce k petici \"Satelit v Čerčanech nechceme\""
 subtitle: ""
-summary: "Shrnutí našeho setkání s občany ze dne 20.08.2019"
+summary: "V tomto týdnu jsme získali dopis s vyjádřením ze strany obce Čerčany. O dalším vývoji budeme opět informovat pomocí dalších příspěvků."
 authors: [""]
 tags: []
 categories: []
-date: 2019-09-01
+date: 2020-01-09
 featured: false
 draft: false
 
@@ -27,9 +27,8 @@ image:
 projects: []
 ---
 
-V příloze dnešního příspěvku bychom rádi zveřejnili shrnutí našeho setkání s občany ze dne 20.08.2019. Cílem setkání i souboru je shrnutí informací, které jsme nashromáždili o změně č.1 územního plánu obce Čerčan.
-<br/>
-<br/>
-PDF ke stažení
---
-[Podklady prezentované na setkání s občany, 20.08.2019](/documents/Setkani_s_obcany.pdf) 
+V tomto týdnu jsme získali dopis s vyjádřením ze strany obce Čerčany.
+
+O dalším vývoji budeme opět informovat pomocí dalších příspěvků.
+
+![Vyjadreni obce k petici](/img/Vyjadreni_obce_k_petici.jpg "Vyjadreni obce k petici")

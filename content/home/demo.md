@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Jak můžu pomoct?"
+title = "Logo"
 subtitle = ""
 
 [design]
@@ -49,14 +49,11 @@ subtitle = ""
  css_class = ""
 +++
 
-
-## Přidejte se k nám. Naše další kroky:
-
-- Spojit síly a zabránit výstavbě
-- Sestavení připomínek a námitek a jejich zaslání obci
-- Sběr podpisů pro připomínku zástupce veřejnosti dle § 23 stavebního zákona
-- Účast na veřejném projednávání ÚPD
-- Účast na veřejném zasedání zastupitelstva, které bude změnu č.1 ÚP projednávat
+- Nekopírujme chyby ostatních obcí
+- Plánujme s rozumem
+- Jedna obec, jedno srdce, jeden cíl
+- Zachovejme jednu z krás Posázaví
+- Váš nesouhlas je s námi slyšet
 
 {{% alert note %}}
 [Přihlašte se k odběru novinek](https://docs.google.com/forms/d/e/1FAIpQLSe7hRoejTstbG6nJZR3VAzkWoykDZ6zeayH7BFKf5xda5PrTg/viewform?usp=sf_link)
