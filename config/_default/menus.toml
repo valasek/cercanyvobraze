@@ -26,7 +26,12 @@
 [[main]]
   name = "Jak můžu pomoct?"  # A link title for your page.
   url = "#uvod"  # The URL of your page.
-  weight = 50  # The position of your page in the menu.
+  weight = 10  # The position of your page in the menu.
+
+[[main]]
+  name = "Aktuality"
+  identifier = "#post"
+  weight = 20
 
 # [[main]]
 #   name = "Územní plán Čerčan"
@@ -51,17 +56,17 @@
   # parent = "plan"
   # url = "plan/soubory/"
   url = "#soubory"
-  weight = 53
+  weight = 30
 
 [[main]]
   name = "Kontakt"
   url = "#contact"
-  weight = 60
+  weight = 40
 
 [[main]]
   name = "O spolku"
   url = "post/zalozeni-spolku/"
-  weight = 70
+  weight = 50
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
