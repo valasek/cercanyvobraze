@@ -25,31 +25,32 @@
 
 [[main]]
   name = "Jak můžu pomoct?"  # A link title for your page.
-  url = "#demo"  # The URL of your page.
+  url = "#uvod"  # The URL of your page.
   weight = 50  # The position of your page in the menu.
 
-[[main]]
-  name = "Územní plán Čerčan"
-  identifier = "plan"
-  url = "plan/"
-  weight = 50
+# [[main]]
+#   name = "Územní plán Čerčan"
+#   identifier = "plan"
+#   url = "plan/"
+#   weight = 50
 
-[[main]]
-  name = "Územní plán"
-  parent = "plan"
-  url = "plan/uzemni-plan/"
-  weight = 51
+# [[main]]
+#   name = "Územní plán"
+#   parent = "plan"
+#   url = "plan/uzemni-plan/"
+#   weight = 51
 
-[[main]]
-  name = "Změna č. 1"
-  parent = "plan"
-  url = "plan/zmena/"
-  weight = 52
+# [[main]]
+#   name = "Změna č. 1"
+#   parent = "plan"
+#   url = "plan/zmena/"
+#   weight = 52
 
 [[main]]
   name = "Soubory ke stažení"
-  parent = "plan"
-  url = "plan/soubory/"
+  # parent = "plan"
+  # url = "plan/soubory/"
+  url = "#soubory"
   weight = 53
 
 [[main]]

@@ -24,27 +24,27 @@
   translation: Předchozí
 
 - id: next
-  translation: další
+  translation: Další
 
 - id: figure
-  translation: "Figure %d:"
+  translation: "Obrázek %d:"
 
 - id: edit_page
-  translation: Edit this page
+  translation: Upravit stránku
 
 # Buttons
 
 - id: btn_preprint
-  translation: Preprint
+  translation: Tisk
 
 - id: btn_pdf
   translation: PDF
 
 - id: btn_cite
-  translation: Cite
+  translation: Citace
 
 - id: btn_slides
-  translation: Slides
+  translation: Slidy
 
 - id: btn_video
   translation: Video
@@ -59,10 +59,10 @@
   translation: Projekt
 
 - id: btn_poster
-  translation: Poster
+  translation: Plakát
 
 - id: btn_source
-  translation: Source Document
+  translation: Zdrojový dokument
 
 - id: btn_copy
   translation: Kopírovat
@@ -79,7 +79,7 @@
   translation: Vzdělání
 
 - id: user_profile_latest
-  translation: Nejnovší
+  translation: Nejnověší
 
 # Accomplishments widget
 
@@ -89,21 +89,21 @@
 # Experience widget
 
 - id: present
-  translation: Současnost
+  translation: Aktuální
 
 # Pages widget
 
 - id: more_pages
-  translation: Zobraz vše
+  translation: Zobrazit všechny
 
 - id: more_posts
-  translation: Zobraz všechny příspěvky
+  translation: Zobrazit všechny aktualizy
 
 - id: more_talks
-  translation: See all talks
+  translation: Zobrazit všechny přednášky
 
 - id: more_publications
-  translation: See all publications
+  translation: Zobrazit všechny publikace
 
 # Contact widget
 
@@ -120,15 +120,15 @@
   translation: Poslat
 
 - id: book_appointment
-  translation: Book an appointment
+  translation: Rezervovat schůzku
 
 # Publication/Talk details
 
 - id: abstract
-  translation: Abstract
+  translation: Abstrakt
 
 - id: publication
-  translation: Publication
+  translation: Publikace
 
 - id: publication_type
   translation: Typ
@@ -137,7 +137,7 @@
   translation: Datum
 
 - id: last_updated
-  translation: Naposledy aktualizováno
+  translation: Naposledy aktualizováno dne
 
 - id: event
   translation: Událost
@@ -149,25 +149,25 @@
   translation: Nezařazeno
 
 - id: pub_conf
-  translation: Conference paper
+  translation: Materiál ke konferenci
 
 - id: pub_journal
-  translation: Journal article
+  translation: Článek v žurnálu
 
 - id: pub_preprint
-  translation: Preprint
+  translation: Tisk předem
 
 - id: pub_report
-  translation: Report
+  translation: Správa
 
 - id: pub_book
   translation: Kniha
 
 - id: pub_book_section
-  translation: Book section
+  translation: Sekce knihy
 
 - id: pub_thesis
-  translation: Thesis
+  translation: Diplomová práce
 
 - id: pub_patent
   translation: Patent
@@ -180,13 +180,13 @@
 # Default titles for archive pages
 
 - id: posts
-  translation: Příspěvky
+  translation: Aktuality
 
 - id: publications
-  translation: Publications
+  translation: Publikace
 
 - id: talks
-  translation: Talks
+  translation: Přednášky
 
 - id: projects
   translation: Projekty
@@ -194,32 +194,31 @@
 # Search
 
 - id: search
-  translation: Hledat
+  translation: Hledání
 
 - id: search_placeholder
-  translation: Hledat...
+  translation: Hledání...
 
 - id: search_results
   translation: nalezených výsledků
 
 - id: search_no_results
   translation: Nic nelalezeno
-
 # Error 404
 
 - id: page_not_found
   translation: Stránka neexistuje
 
 - id: 404_recommendations
-  translation: Nehledáte náhodou jednu z těchto?
+  translation: Nehledáte náhodou jednu z těchto stránek?
 
 # Cookie consent
 
 - id: cookie_message
-  translation: Tato stránka používá cookies k zajištění co možná nejlepší zkušenosti na našem webu.
+  translation: Tyto stránky používá cookies k zajištění co možná nejlepší zkušenosti na našem webu.
 
 - id: cookie_dismiss
-  translation: Souhlasím!
+  translation: Rozumím!
 
 - id: cookie_learn
   translation: Zjistit více
