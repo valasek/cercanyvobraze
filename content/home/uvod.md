@@ -3,13 +3,14 @@
 # Any elements can be added in the body: https://sourcethemes.com/academic/docs/writing-markdown-latex/
 # Add more sections by duplicating this file and customizing to your requirements.
 
-widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget = "uvod"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Logo"
+title = ""
 subtitle = ""
+logoimage = "logo.png"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -49,12 +50,11 @@ subtitle = ""
  css_class = ""
 +++
 
+Rozvíjejme obec k užitku nás všech
 - Nekopírujme chyby ostatních obcí
 - Plánujme s rozumem
 - Jedna obec, jedno srdce, jeden cíl
 - Zachovejme jednu z krás Posázaví
 - Váš nesouhlas je s námi slyšet
 
-{{% alert note %}}
 [Přihlašte se k odběru novinek](https://docs.google.com/forms/d/e/1FAIpQLSe7hRoejTstbG6nJZR3VAzkWoykDZ6zeayH7BFKf5xda5PrTg/viewform?usp=sf_link)
-{{% /alert %}}
