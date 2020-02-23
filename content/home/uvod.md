@@ -3,7 +3,7 @@
 # Any elements can be added in the body: https://sourcethemes.com/academic/docs/writing-markdown-latex/
 # Add more sections by duplicating this file and customizing to your requirements.
 
-widget = "uvod"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
@@ -51,8 +51,8 @@ logoimage = "logo.png"
 +++
 
 Rozvíjejme obec k užitku nás všech
-- Nekopírujme chyby ostatních obcí
 - Plánujme s rozumem
+- Nekopírujme chyby ostatních obcí
 - Jedna obec, jedno srdce, jeden cíl
 - Zachovejme jednu z krás Posázaví
 - Váš nesouhlas je s námi slyšet
