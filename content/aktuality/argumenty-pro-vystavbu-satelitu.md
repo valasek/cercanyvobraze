@@ -1,19 +1,8 @@
 ---
-draft: false
 summary: "Setkáváme se s argumenty, ze strany lidí, kteří jsou pro výstavbu satelitu. Pojďme se na některé podívat blíže...☝\U0001F52C"
-authors:
-  - ''
-featured: false
 title: Argumenty pro výstavbu satelitu
 subtitle: ''
 date: 2020-01-20T00:00:00.000Z
-tags: []
-projects: []
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-categories: []
 ---
 Setkáváme se s argumenty, ze strany lidí, kteří jsou pro výstavbu satelitu. Pojďme se na některé podívat blíže...☝🔬
 

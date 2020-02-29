@@ -1,30 +1,8 @@
 ---
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
-
 title: "Zasedáni zastupitelstva obce Čerčany č. 1/2020"
 subtitle: ""
 summary: "V sále Kulturního domu č. p. 28 Čerčany,  27, února 2020 (čtvrtek) od 19,00 hod."
-authors: [""]
-tags: []
-categories: []
 date: 2020-02-25
-featured: false
-draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
 ---
 
 Informujeme o konajícím se zasedání zastupitelstva obce ve čtvrtek 27.02.2020 od 19:00 v KD, kde jeden z bodů bude i projednávání petice z léta minulého roku - Satelit v Čerčanech nechceme!
