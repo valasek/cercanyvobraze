@@ -1,6 +1,6 @@
 ---
 draft: false
-summary: "Setkáváme se s argumenty, ze strany lidí, kteří jsou pro výstavbu satelitu. Pojďme se na některé podívat blíže...☝\U0001F3FB\U0001F52C"
+summary: "Setkáváme se s argumenty, ze strany lidí, kteří jsou pro výstavbu satelitu. Pojďme se na některé podívat blíže...☝\U0001F52C"
 authors:
   - ''
 featured: false
@@ -15,9 +15,7 @@ image:
   preview_only: false
 categories: []
 ---
-Setkáváme se s argumenty, ze strany lidí, kteří jsou pro výstavbu satelitu. Pojďme se na některé podívat blíže...☝🏻🔬
-
-editace
+Setkáváme se s argumenty, ze strany lidí, kteří jsou pro výstavbu satelitu. Pojďme se na některé podívat blíže...☝🔬
 
 **"... bráníte dětem čerčanských obyvatel si pořídit v Čerčanech parcelu. Když bydlíte Vy tak ostatní nemusejí"...**
 
