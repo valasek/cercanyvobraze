@@ -32,7 +32,9 @@ projects: []
 | ----- | ----- | ----- |
 | ZPRÁVA O UPLATŇOVÁNÍ ÚZEMNÍHO PLÁNU ČERČAN | [online PDF](https://www.cercany.cz/assets/File.ashx?id_org=1966&id_dokumenty=53923) ||
 | ZMĚNA Č.1 ÚP ČERČAN – PŮVODNÍ NÁVRH A ODŮVODNĚNÍ| [online PDF](https://www.cercany.cz/assets/File.ashx?id_org=1966&id_dokumenty=53926) ||
-| STRATEGICKÝ PLÁN OBCE ČERČAN | [online PDF](https://www.cercany.cz/assets/File.ashx?id_org=1966&id_dokumenty=52636) ||
+| STRATEGICKÝ PLÁN OBCE ČERČAN | [PDF](https://www.cercany.cz/assets/File.ashx?id_org=1966&id_dokumenty=52636) ||
 | PŘIPOMÍNKY/NÁMITKY OBČANŮ A DOTČENÝCH ORGÁNŮ | [1. část](https://www.cercany.cz/assets/File.ashx?id_org=1966&id_dokumenty=53813), [2. část](https://www.cercany.cz/assets/File.ashx?id_org=1966&id_dokumenty=53814) ||
 | ZMĚNA Č. 1 ÚP ČERČAN – AKTUÁLNÍ VERZE | nedostupná v online verzi | Zpracována Ing. arch. akd. arch Petr Foglar, v Čerčanech dne 12.04.2019 |
-| Podklady prezentované spolkem na setkání s občany | [online PDF](/documents/Setkani_s_obcany.pdf) | Střetnutí proběhlo v kině Čerčany dne 20.08.2019|
+| Podklady prezentované spolkem na setkání s občany | [PDF](/documents/Setkani_s_obcany.pdf) | Střetnutí proběhlo v kině Čerčany dne 20.08.2019|
+| Vyhodnocení ankety k vyvážení domovního odpadu | [PDF](/documents/Anketa_odpady_vyhodnoceni_v02.pdf)|
+| Komentáře zaslané v anketě k vyvážení domovního odpadu | [PDF](/documents/Odpovedi-komentare.pdf)|
