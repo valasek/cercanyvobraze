@@ -2,7 +2,7 @@
 title: "Koronavirus"
 summary: "Aktuální informace z lékařského prostředí a odkaz na online lékařskou poradnu zdarma"
 subtitle: ''
-date: 2020-03-11T00:00:00.000Z
+date: 2020-03-10T00:00:00.000Z
 ---
 
 V médiích naleznete množství užitečných i úplně nerelevantních informací.
