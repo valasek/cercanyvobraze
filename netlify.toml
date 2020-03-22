@@ -15,7 +15,6 @@
 [context.branch-deploy]
   command = "hugo --gc --minify -b $DEPLOY_PRIME_URL"
 
-
 [[redirects]]
   from = "https://cercanyvobraze.netlify.com/*"
   to = "https://www.cercanyvobraze.cz/:splat"
