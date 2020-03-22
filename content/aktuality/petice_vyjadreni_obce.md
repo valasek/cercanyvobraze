@@ -9,9 +9,10 @@ Dne 20. prosince 2019 jsme na obec odevzdali petiční archy s téměř 400 podp
 
 **"Zastupitelstvo obce Čerčany bere na vědomí petici \"Satelit v Čerčanech nechceme\", doručenou dne 20.12.2019"**
 
+Přečtěte si [přepis zápisu z projednání](/aktuality/zapis_12020/).
+
+O dalším vývoji budeme opět informovat pomocí dalších příspěvků.
+
+ ---
+
 ![](/img/zo_cercany_petice_na_vedomi.jpg)
-
-Za spolek Čerčany v obraze
-
-Martin Nerad
-předseda spolku
