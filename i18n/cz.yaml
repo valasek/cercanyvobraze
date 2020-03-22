@@ -137,7 +137,7 @@
   translation: Datum
 
 - id: last_updated
-  translation: Naposledy aktualizováno dne
+  translation: Publikováno
 
 - id: event
   translation: Událost
