@@ -13,9 +13,9 @@ Předpokládá zastavění lokality Velkého Barochova vedle bažantnice satelit
 
 Načasování oznámení nejdůležitějšího dokumentu o rozvoji obce a datum konání veřejné diskuse ukazuje, že vedení obce nemá o řádnou debatu s občany zájem.
 
-Během léta náš spolek musí sebrat alespoň 200 podpisů občanů obce k připravené připomínce, kterou musíme uplatnit na veřejném projednání dne 12. srpna 2020.
+Během léta náš spolek musí sebrat alespoň 200 podpisů občanů obce k připravené námitce, kterou musíme uplatnit na veřejném projednání dne 12. srpna 2020.
 
-V této souvislosti se k Vám obracíme s prosbou o podporu, podepsání dané připomínky a účast na veřejném projednání. Chápeme, že je nyní čas dovolených, ale datum konání není naší volbou.
+V této souvislosti se k Vám obracíme s prosbou o podporu, podepsání dané námitky a účast na veřejném projednání. Chápeme, že je nyní čas dovolených, ale datum konání není naší volbou. **Poslední datum podání námitky je 19. srpna. 2020.**
 
 O bližších podrobnostech, tj. po vyhotovení definitivní verze připomínky, Vás budeme okamžitě informovat.
 
