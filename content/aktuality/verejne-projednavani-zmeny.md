@@ -17,7 +17,7 @@ Během léta náš spolek musí sebrat alespoň 200 podpisů občanů obce k př
 
 V této souvislosti se k Vám obracíme s prosbou o podporu, podepsání dané námitky a účast na veřejném projednání. Chápeme, že je nyní čas dovolených, ale datum konání není naší volbou. **Poslední datum podání námitky je 19. srpna. 2020.**
 
-O bližších podrobnostech, tj. po vyhotovení definitivní verze připomínky, Vás budeme okamžitě informovat.
+O bližších podrobnostech, tj. po vyhotovení definitivní verze námitky, Vás budeme okamžitě informovat.
 
 Děkujeme
 
