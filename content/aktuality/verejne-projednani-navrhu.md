@@ -66,9 +66,3 @@ Společně se blížíme k cíli 💪🏻
 Děkujeme všem za podporu i sdílení! 
 
 Užívejte sluníčka a blížící se konec prázdnin 
-
----
-
- Fotky  z veřejného projednání, ještě než se sála zaplnila.
-
- ![](/img/verejne-projednavani-1.JPG) ![](/img/verejne-projednavani-2.JPG)
