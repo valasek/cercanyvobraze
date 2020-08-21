@@ -12,13 +12,19 @@
   {{ end }}
 
   <p class="powered-by">
-    &copy; by <a href="https://www.linkedin.com/in/stanislavvalasek/">Stanislav Valášek</a> for Čerčany v obraze, {{now.Year | markdownify}}
+    &copy; by <a href="https://www.linkedin.com/in/stanislavvalasek/">Stanislav Valášek</a> for Čerčany v obraze, 2019 - {{now.Year | markdownify}}
+  </p>
 
-    <!-- Powered by the XXX
-    <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
-    <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>. -->
+  {{/* Display copyright license. */}}
+  {{ partial "site_footer_license" . }}
 
-    {{ if not (in (slice "docs" "updates") .Type) }}
+  <p class="powered-by">
+    {{ if not site.Params.i_am_a_sponsor }}
+    Published with
+    <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic Website Builder</a>
+    {{ end }}
+
+    {{ if not (in (slice "book" "docs" "updates") .Type) }}
     <span class="float-right" aria-hidden="true">
       <a href="#" class="back-to-top">
         <span class="button_icon">
