@@ -51,3 +51,5 @@ subtitle = ""
 +++
 
 [Přihlašte se k odběru novinek](https://docs.google.com/forms/d/e/1FAIpQLSe7hRoejTstbG6nJZR3VAzkWoykDZ6zeayH7BFKf5xda5PrTg/viewform?usp=sf_link)
+
+[Přihlašte se do spolku](https://forms.gle/PaEdvTVJpjTwCwMC8)
