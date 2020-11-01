@@ -2,7 +2,7 @@
 title: "Video krása nádherné krajiny Čerčan"
 summary: "Jsou hodnoty, které zůstávají a za které stojí společnými silami bojovat"
 subtitle: ''
-date: 2020-11-02T00:00:00.000Z
+date: 2020-11-01T00:00:00.000Z
 ---
 
 Podívejme se společně v době ubývajících pozitivních zpráv na krásu nádherné krajiny Čerčan.
