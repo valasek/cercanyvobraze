@@ -1,23 +1,22 @@
 ---
-title: "Názory lidí z Čerčan - 1. video"
-summary: "V prvním videu bychom Vás rádi seznámili s názorem bývalých starostů obce Čerčany na současný návrh změny územního plánu"
+title: "Video krása nádherné krajiny Čerčan"
+summary: "Jsou hodnoty, které zůstávají a za které stojí společnými silami bojovat"
 subtitle: ''
-date: 2020-11-01T00:00:00.000Z
+date: 2021-01-10T00:00:00.000Z
 ---
 
-I přes tuto těžkou a leckdy zvláštní dobu, kdy ochrana zdraví je na prvním místě, aktivně bojujeme za budoucí podobu Čerčan. Věříme, že ochrana přírody a míst kam v této době chodíme relaxovat stojí za to a že soukromý záměr nemůže být nadřazen nad vyšší zájmy obce a přírody...
+Podívejme se společně v době ubývajících pozitivních zpráv na krásu nádherné krajiny Čerčan.
 
-V následujících týdnech a měsících Vás chceme seznámit s názory lidí, kteří zde žijí napříč všemi vrstvami, zkušenostmi či postavením. Za pomoci režiséra pana Hanuše vznikl soubor rozhovorů s lidmi, kteří zde žijí a rádi by se s Vámi podělili o svůj názor 🙂.
+Jsou hodnoty, které zůstávají a za které stojí společnými silami bojovat.
 
-V prvním videu bychom Vás rádi seznámili s názorem bývalých starostů obce Čerčany na současný návrh změny územního plánu. Ušlechtilý záměr, jakým ochrana přírody beze sporu je, dokázal spojit tyto lidi i přes politické rozepře a neshody.🙏🏻 I díky tomuto spojení lze vypozorovat o jak vážnou problematiku obce se jedná. Jedná se o budoucnost nás všech.....
-
-Ve videu vystupují p.Berka, p.Bárta a p.Tomášková.
-
-{{< youtube qlqigAKQriU >}}
+{{< youtube ZPUBbAV0-BQ >}}
+<br/>
+Ze srdce děkujeme panu Hanušovi, jeho rodině a panu Zemkovi za tvorbu tohoto videa a i všem, kteří si k nám postupně hledají cestu.
+Každá ruka, která může přispět našemu společnému záměru je nedocenitelná. Stejně jako každý hlas, který souzní s námi.
 
 | 
 ------|------
-režie|p. Hanuš
-střih|p. Josef Gočár
-kamera|p. Zemek
-
+režie|Jaroslav Hanuš
+kamera|Jaroslav Hanuš, Jan Zemek
+komentář k videu|Jaroslav Hanuš
+text k videu|Klára Gočárová
