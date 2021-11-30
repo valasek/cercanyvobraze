@@ -2,7 +2,7 @@
 title: "Mgr. Jan Frey - O změně č. 1 územního plánu starosta stále tají informace"
 summary: "Rád bych reagoval na článek Dr. Tupého publikovaný v minulém vydání Čerčanského zpravodaje a zejména na následnou reakci pana starosty na něj."
 subtitle: ''
-date: 2021-11-29T00:00:00.002Z
+date: 2021-11-29T00:10:00.002Z
 ---
 
 O změně č. 1 územního plánu starosta stále tají informace 
