@@ -2,7 +2,7 @@
 title: "Petice na záchranu lesa v Novém Městečku"
 summary: "Jako spolek dlouhodobě bojujeme se záměry nekoncepční výstavby a nejsme jediní"
 subtitle: ''
-date: 2021-11-29T00:00:00.000Z
+date: 2021-11-29T00:00:00.005Z
 ---
 
 📌Jako spolek dlouhodobě bojujeme se záměry nekoncepční výstavby a nejsme jediní. Čas nám dává za pravdu. Lidem není jedno, kde žijí. 🙏Developer, který developuje území lidem život nezlepší.
