@@ -2,7 +2,7 @@
 title: "Ing. Jiří Rejhon, CSc. - reakce na starostův článek"
 summary: "Stran výše nájmů"
 subtitle: ''
-date: 2021-11-29T00:00:00.001Z
+date: 2021-11-29T00:00:00.003Z
 ---
 
  
