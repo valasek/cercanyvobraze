@@ -13,4 +13,4 @@ Určitě se již brzy dozvíme, kdo si pozemky koupil a za kolik. Možná mezi �
 
 Předmětem prodeje mají být pozemky o rozloze téměř 6.000 m2 v Novém Městečku. Idylický kousek lesa je v územním plánu jako zastavitelná plocha, která se úplně nabízí pro výstavbu bytového domu.
  
-Konec volebního období se kvapem blíží a s výprodejem obecního majetku je třeba spěchat. Určitě ještě uvidíme, jaký další majetek obec nepotřebuje a komu by se mohl hodit.🤡
+Konec volebního období se kvapem blíží a s výprodejem obecního majetku je třeba spěchat. Určitě ještě uvidíme, jaký další majetek obec nepotřebuje a komu by se mohl hodit.🤡 
