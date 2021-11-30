@@ -2,7 +2,7 @@
 title: "Výprodej obecních pozemků pokračuje"
 summary: "15. listopadu proběhla dražba několika stavebních pozemků, které obec nejspíš již nepotřebuje."
 subtitle: ''
-date: 2021-11-29T00:00:00.000Z
+date: 2021-11-29T00:00:00.004Z
 ---
 
 15. listopadu proběhla dražba několika stavebních pozemků, které obec nejspíš již nepotřebuje.
