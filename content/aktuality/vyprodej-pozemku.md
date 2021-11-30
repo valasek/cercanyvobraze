@@ -5,8 +5,6 @@ subtitle: ''
 date: 2021-11-29T00:00:00.000Z
 ---
 
-🔈VÝPRODEJ OBECNÍCH POZEMKŮ POKRAČUJE💸
-
 15. listopadu proběhla dražba několika stavebních pozemků, které obec nejspíš již nepotřebuje.
 
 Určitě se již brzy dozvíme, kdo si pozemky koupil a za kolik. Možná mezi šťastnými kupci uvidíme i některé známé tváře.🤔😉
