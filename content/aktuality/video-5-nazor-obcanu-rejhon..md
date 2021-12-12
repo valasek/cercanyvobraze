@@ -5,8 +5,9 @@ subtitle: ''
 date: 2021-12-12T00:00:00.000Z
 ---
 
-Pan Rejhon je členem Spolku pro ochranu životního prostředí v Novém Městečku a jeho články jste mohli zaznamenat i v posledních vydání Čerčanského zpravodaje. 
-Jelikož se poslední článek pana Rejhona do ČZ nevešel celý, přidáváme k videu i odkaz [plné znění](/aktuality/rejnoh-clanek/).
+Pan Rejhon je členem Spolku pro ochranu životního prostředí v Novém Městečku a jeho články jste mohli zaznamenat i v posledním vydání Čerčanského zpravodaje.
+
+Jelikož se poslední článek pana Rejhona do ČZ nevešel celý, přidáváme k videu i odkaz [plné znění článku](/aktuality/rejnoh-clanek/).
 
 Děkujeme za vaši přízeň a sdílení.
 
