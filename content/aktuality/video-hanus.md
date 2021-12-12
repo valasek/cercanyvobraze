@@ -1,6 +1,6 @@
 ---
 title: "Video názor místního obyvatele Doc. Ing. Josefa Krásy Ph.D."
-summary: "V tom dnešním vám přinášíme odborný názor místního obyvatele a vysokoškolského pedagoga na Fakultě stavební ČVUT.."
+summary: "V tom dnešním vám přinášíme odborný názor místního obyvatele a vysokoškolského pedagoga na Fakultě stavební ČVUT."
 subtitle: ''
 date: 2021-11-09T00:00:00.000Z
 ---
