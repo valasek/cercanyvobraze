@@ -1,6 +1,6 @@
 ---
 title: "Video - Názor občanů na územní plán Čerčan - p. Ing. Jiří Rejhon CSc."
-summary: "Pan Rejhon je členem Spolku pro ochranu životního prostředí v Novém Městečku a jeho články jste mohli zaznamenat i v posledních vydání Čerčanského zpravodaje. "
+summary: "Pan Rejhon je členem Spolku pro ochranu životního prostředí v Novém Městečku a jeho články jste mohli zaznamenat i v posledních vydání Čerčanského zpravodaje."
 subtitle: ''
 date: 2021-12-12T00:00:00.000Z
 ---
