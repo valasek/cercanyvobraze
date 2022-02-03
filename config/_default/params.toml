@@ -113,7 +113,7 @@ email = "valasek@gmail.com"
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
   # {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/Twitter"},
-  # {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
+  {icon = "youtube", icon_pack = "fab", name = "Sleduj nás na YouTube", link = "https://www.youtube.com/channel/UCf6ROd0g3jU5U4jpO857--g/videos"},
   {icon = "envelope", icon_pack = "fas", name = "Napište nám", link = "mailto:cercany.vobraze@gmail.com"},
   {icon = "facebook", icon_pack = "fab", name = "Přidej se do FB skupiny", link = "https://www.facebook.com/groups/367013960544384/"},
   # {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
