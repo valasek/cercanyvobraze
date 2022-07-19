@@ -1,5 +1,5 @@
 ---
-title: "🔊ČERČANY V OBRAZECH JDOU DO KOMUNÁLNÍCH VOLEB❗️"
+title: "🔊ČERČANY V OBRAZE JDOU DO KOMUNÁLNÍCH VOLEB❗️"
 subtitle: ""
 summary: "Spolek funguje již 4 roky a každý, kdo nás sleduje, určitě ví, že je za námi spousta práce a nejen za samotnými členy spolku, ale i za spoustou lidí, kteří nás celou dobu podporují a pomáhají nám.
 Nyní jsme se spojili dohromady, abychom mohli vytvořit silnou kandidátku pro nadcházející komunální volby."
