@@ -11,9 +11,10 @@ collections:
     name: "aktuality" # Used in routes, e.g., /admin/collections/blog
     folder: "content/aktuality" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
       - {label: "Nadpis", name: "title", widget: "string"}
+      - {label: "Podnadpis", name: "summary", widget: "string"}
       - {label: "Datum", name: "date", widget: date}
       - {label: "Obrázek", name: "image", widget: image}
       - {label: "Obsah", name: "body", widget: "markdown"}
