@@ -50,6 +50,8 @@ subtitle = "Zde naleznete relevantní podklady"
  css_class = ""
 +++
 
+{{<table "table table-striped table-bordered">}}
+
 | Název | Odkaz | Popis |
 | ----- | ----- | ----- |
 | Zpráva o uplatňování územního plánu Čerčan | [online PDF](https://www.cercany.cz/assets/File.ashx?id_org=1966&id_dokumenty=53923) ||
@@ -61,3 +63,4 @@ subtitle = "Zde naleznete relevantní podklady"
 | Vyhodnocení ankety k vyvážení domovního odpadu | [PDF](/documents/Anketa_odpady_vyhodnoceni_v02.pdf)|
 | Komentáře zaslané v anketě k vyvážení domovního odpadu | [PDF](/documents/Odpovedi-komentare.pdf)|
 | Zápis č. 1/2020 ze zasedání Zastupitelstva obce Čerčany konaného dne 27. 2. 2020 v Čerčanech | [PDF](/documents/zapis_ze_zasedani_ZO_27.2.2020.pdf) | Bod č. 1.7 obsahuje diskuzi k petici "Satelit v Čerčanech nechceme"
+{{</table>}}

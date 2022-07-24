@@ -1,37 +1,64 @@
-+++
-# Contact widget.
-widget = "contact"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 130  # Order that this section will appear.
+---
+# An instance of the Contact widget.
+widget: contact
 
-title = "Napište nám"
-subtitle = ""
+# This file represents a page section.
+headless: true
 
-# Automatically link email and phone?
-autolink = true
+# Order that this section appears on the page.
+weight: 130
 
-# Email form provider
-#   0: Disable email form
-#   1: Netlify (requires that the site is hosted by Netlify)
-#   2: formspree.io
-email_form = 1
+title: Napište nám
+subtitle:
 
-[design.background]
-  # Background color.
-  # color = "navy"
+content:
+  # Automatically link email and phone or display as text?
+  autolink: true
+
+  # Email form provider
+  form:
+    provider: netlify
+    formspree:
+      id:
+    netlify:
+      # Enable CAPTCHA challenge to reduce spam?
+      captcha: false
+
+  # Contact details (edit or remove options as required)
+  email: cercany.vobraze@gmail.com
+  # phone: 888 888 88 88
+  # address:
+  #   street: 450 Serra Mall
+  #   city: Stanford
+  #   region: CA
+  #   postcode: '94305'
+  #   country: United States
+  #   country_code: US
+  # coordinates:
+  #   latitude: '37.4275'
+  #   longitude: '-122.1697'
+  # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+  # office_hours:
+  #   - 'Monday 10:00 to 13:00'
+  #   - 'Wednesday 09:00 to 10:00'
+  # appointment_url: 'https://calendly.com'
+  contact_links:
+    - icon: facebook
+      icon_pack: fab
+      name: 'Přidej se do FB skupiny'
+      link: 'https://www.facebook.com/groups/367013960544384/'
+    - icon: youtube
+      icon_pack: fab
+      name: 'Sleduj nás na YouTube'
+      link: 'https://www.youtube.com/channel/UCf6ROd0g3jU5U4jpO857--g/videos'
   
-  # Background gradient.
-  # gradient_start = "#4bb4e3"
-  # gradient_end = "#2b94c3"
-  
-  # Background image.
-  image = "cercany.jpg"  # Name of image in `static/img/`.
-  image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
-  image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
-  image_position = "center"  # Options include `left`, `center` (default), or `right`.
-  image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
+design:
+  columns: '2'
+  background:
+    image: cercany.jpg  # Name of image in `static/img/`.
+    image_darken: 0.6
+    image_position: center
+    image_parallax: true
+    text_color_light: true
 
-  # Text color (true=light or false=dark).
-  text_color_light = true
-+++
+---
