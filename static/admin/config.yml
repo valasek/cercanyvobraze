@@ -16,7 +16,6 @@ collections:
       - {label: "Nadpis", name: "title", widget: "string"}
       - {label: "Podnadpis", name: "summary", widget: "string"}
       - {label: "Datum", name: "date", widget: date}
-      - {label: "Obrázek", name: "image", widget: image}
       - {label: "Obsah", name: "body", widget: "markdown"}
   - label: "Stránky"
     name: "pages"
