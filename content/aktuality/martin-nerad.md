@@ -5,6 +5,8 @@ summary: "V Čerčanech žiju od svých dvou let. Jsem předsedou a spoluzaklada
 date: 2022-07-21
 ---
 
+V Čerčanech žiju od svých dvou let. Jsem předsedou a spoluzakladatelem spolku Čerčany v obraze. Rozhodování zastupitele vnímám velice vážně, vždy by se mělo řídit potřebami občanů a zároveň se opírat o odborné studie.
+
 Je mi 47 let a v Čerčanech žiju od svých dvou let. Jsem předsedou a spoluzakladatelem spolku Čerčany v obraze.
 
 Jeden z nejdůležitějších bodů našeho programu je zajistit dostatek nezkreslených informací pro naše občany. Například formou živého videopřenosu ze zastupitelstev s jeho následnou archivací.
