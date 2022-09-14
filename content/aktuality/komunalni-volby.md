@@ -24,8 +24,6 @@ Zároveň připomínáme setkání s občany na toto téma již tuto neděli 18.
 
 3️⃣ Čerčany (Restaurace u Škvorů) od 19:00 hodin
 
-Úp﻿lné
-
 Děkujeme za Vaši přízeň a spolupráci po celé období 😊
 
 ![](/img/jak-vyplnit-referendum.jpeg)
