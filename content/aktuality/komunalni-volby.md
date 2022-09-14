@@ -1,11 +1,11 @@
 ---
-title: "Příští pátek a sobota se bude nést ve znamení komunálních voleb a místního referenda"
+title: Příští pátek a sobota se bude nést ve znamení komunálních voleb a
+  místního referenda
 subtitle: ""
-summary: "Referendum v Čerčanech je aktuálním tématem již několik měsíců, od doby kdy se nám společně podařilo získat přes 900 podpisů."
+summary: Referendum v Čerčanech je aktuálním tématem již několik měsíců, od doby
+  kdy se nám společně podařilo získat přes 900 podpisů.
 date: 2022-09-14
 ---
-
-
 ❗️Příští pátek a sobota se bude nést ve znamení komunálních voleb a místního referenda.❗️
 
 Referendum v Čerčanech je aktuálním tématem již několik měsíců, od doby kdy se nám společně podařilo získat přes 900 podpisů. ✍🏻✍🏻
@@ -23,6 +23,8 @@ Zároveň připomínáme setkání s občany na toto téma již tuto neděli 18.
 2️⃣ Vysoká Lhota (Restaurace Pyšelka) od 17:30 hodin
 
 3️⃣ Čerčany (Restaurace u Škvorů) od 19:00 hodin
+
+Úp﻿lné
 
 Děkujeme za Vaši přízeň a spolupráci po celé období 😊
 
