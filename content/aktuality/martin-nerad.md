@@ -1,11 +1,9 @@
 ---
 title: "👤 Martin Nerad, seznamte se ..."
 subtitle: ""
-summary: "V Čerčanech žiju od svých dvou let. Jsem předsedou a spoluzakladatelem spolku Čerčany v obraze. Rozhodování zastupitele vnímám velice vážně, vždy by se mělo řídit potřebami občanů a zároveň se opírat o odborné studie."
+summary: "Je mi 47 let a v Čerčanech žiju od svých dvou let. Jsem předsedou a spoluzakladatelem spolku Čerčany v obraze. Rozhodování zastupitele vnímám velice vážně, vždy by se mělo řídit potřebami občanů a zároveň se opírat o odborné studie."
 date: 2022-07-21
 ---
-
-V Čerčanech žiju od svých dvou let. Jsem předsedou a spoluzakladatelem spolku Čerčany v obraze. Rozhodování zastupitele vnímám velice vážně, vždy by se mělo řídit potřebami občanů a zároveň se opírat o odborné studie.
 
 Je mi 47 let a v Čerčanech žiju od svých dvou let. Jsem předsedou a spoluzakladatelem spolku Čerčany v obraze.
 
